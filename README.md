@@ -1,4 +1,4 @@
-## 🙋‍♂️ Introducing myself
+## 🙋‍♂Introducing myself
 
 #### 🌟 Data Scientist | Data Analyst | Business Intelligence Professional
 
@@ -10,7 +10,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ---
 
-## ⚡ **Core Competencies**
+## ⚡**Core Competencies**
 - **Data Analysis**: Analyze complex datasets (within any industry) to identify trends and patterns.
 - **Machine Learning**: Apply machine learning techniques using Python and relevant libraries.
 - **Data Visualization**: Create insightful visualizations using Tableau and Power BI.
@@ -32,7 +32,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 </p>
 
 ---
-## Portfolio👇
+## 💼Portfolio 👇
 
 
 <!--
