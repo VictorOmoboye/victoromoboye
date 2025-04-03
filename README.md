@@ -33,7 +33,8 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ---
 ## 💼Portfolio 👇
-
+**Disclaimer⚠️:**
+*The datasets, analyses, and reports presented in this portfolio are synthetic and created solely for demonstration purposes. They do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. These examples are designed to showcase my technical skills in data science and data analysis while adhering to ethical guidelines and respecting data privacy.*
 
 <!--
 **VictorOmoboye/victoromoboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
