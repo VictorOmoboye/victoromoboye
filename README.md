@@ -2,9 +2,13 @@
 
 #### 🌟 Data Scientist | Data Analyst | Business Intelligence Professional
 
-Hello! I’m Victor, a data scientist specialise in data analytics, machine learning and business inteligence, with expertise in leveraging advanced analytics, predictive modeling, and visualization to uncover valuable insights and drive impactful  decisions. My experience spans across healthcare, finance, risk management, and operational efficiency, where I have consistently delivered actionable solutions.
+Hi, Welcome to my portfolio 😊
 
-I am detail-oriented, strategic, creative, and highly collaborative. These qualities form the foundation of my work, enabling me to translate complex data into meaningful insights that inform decision-making and optimize outcomes.
+I’m a Data Scientist specializing in data analytics, machine learning, business intelligence, and AI-powered automated development, with expertise in leveraging advanced analytics, predictive modeling, and intelligent automation to uncover valuable insights and drive impactful decisions.
+
+My experience spans across healthcare, finance, risk management, and operational efficiency, where I have consistently delivered actionable solutions, including the development of conversational AI tools and the automation of complex workflows to boost productivity.
+
+I am detail-oriented, strategic, creative, and highly collaborative. These qualities form the foundation of my work, enabling me to translate complex data into meaningful insights that inform decision-making, streamline processes, and optimize outcomes.
 
 Welcome to my portfolio, where I showcase my projects, achievements, and passion for data science!
 
